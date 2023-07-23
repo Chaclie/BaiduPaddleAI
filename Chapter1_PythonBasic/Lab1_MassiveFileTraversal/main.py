@@ -1,3 +1,5 @@
+'''实现简单的文件解压和类型、大小统计'''
+
 import os
 import zipfile
 
@@ -56,7 +58,7 @@ def get_file_type_size(path: str) -> list:
     return [type_dict, size_dict]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     # res = unzip_data(
     #     r'./Chapter1_PythonBasic/1.zip',
     #     r'./Chapter1_PythonBasic/Lab1_MassiveFileTraversal/1',
