@@ -1,4 +1,5 @@
-"""数据集加载"""
+"""线性回归预测房价"""
+
 import os
 import csv
 import time
