@@ -1,3 +1,4 @@
 Chapter3_MachineLearningBasic/Lab10_NaiveBayesClassifyingText/data/cnews-origin-train.txt filter=lfs diff=lfs merge=lfs -text
 Chapter3_MachineLearningBasic/Lab10_NaiveBayesClassifyingText/data/cnews-extract-train.txt filter=lfs diff=lfs merge=lfs -text
 Chapter4_NeuralNetworkBasic/Lab14_FCNNClassifyingGem/data/model_224x224.pt filter=lfs diff=lfs merge=lfs -text
+Chapter5_CVBasic/Lab17_ConvNNClassifyingFood/data/FoodPic-5Class.zip filter=lfs diff=lfs merge=lfs -text
